@@ -1,0 +1,2 @@
+# LeetCode
+My first repository
